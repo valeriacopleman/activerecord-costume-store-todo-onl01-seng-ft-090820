@@ -7,7 +7,7 @@
       t.string :location
       t.integer :costume_inventory
       t.integer :num_of_employees
-      t.string :status
+      t.string :still_in_business
       t.timestamps
     end
   end
