@@ -1,7 +1,7 @@
 class Costume < ActiveRecord::Base
   
   def change
-    create_table :costume do |t|
+    create_table :costumes do |t|
       t.string :name 
       t.integer :price 
       t.text :image_url
