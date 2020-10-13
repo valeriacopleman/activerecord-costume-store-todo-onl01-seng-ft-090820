@@ -6,7 +6,7 @@
       t.string :name
       t.string :location
       t.integer :costume_inventory
-      t.integer :employees
+      t.integer :num_of_employees
       t.string :status
       t.timestamps
     end
