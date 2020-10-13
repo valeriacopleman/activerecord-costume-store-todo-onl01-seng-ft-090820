@@ -1,4 +1,4 @@
-class Costume < ActiveRecord::Migration[4.2]
+class Costume < ActiveRecord::Migration[5.2]
   
 
   
