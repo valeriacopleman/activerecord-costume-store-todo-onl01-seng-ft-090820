@@ -8,6 +8,7 @@ class Costume << ActiveRecord::Base
       t.integer :size 
       t.timestamps :created_at
       t.timestamps :updated_at
+    end
   end
   
 end
